@@ -90,4 +90,4 @@ src/
 
 ## Author
 
-Made with React for learning and practice.
+**Pallavi Sarovar**
