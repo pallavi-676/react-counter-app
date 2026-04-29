@@ -49,7 +49,7 @@ Whenever state changes, React re-renders the UI automatically.
 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/pallavi-676/react-counter-app.git
 ```
 
 2. Move into project folder
@@ -69,6 +69,7 @@ npm install
 ```bash
 npm run dev
 ```
+
 
 ## Project Structure
 
